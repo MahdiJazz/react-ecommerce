@@ -1,0 +1,21 @@
+.section-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 30px 0;
+  }
+  
+  .section-title h2 {
+    margin: 0 15px; 
+    font-size: 18px;
+    font-weight: bold;
+    color: #2c3e50;
+  }
+  
+  .section-title .line {
+    width: 100px; 
+    height: 2px;
+    background-color: #2c3e50;
+    opacity: 0.5;
+  }
+  

@@ -1,0 +1,14 @@
+
+.text-right-placeholder::placeholder {
+    text-align: right;
+  }
+
+
+
+  .full-width-img {
+    width: 100%; 
+    height: auto; 
+    object-fit: cover; 
+  }
+  
+  
