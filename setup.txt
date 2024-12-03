@@ -1,0 +1,16 @@
+
+How to Run the Project:
+
+1. Clone the repository:
+   git clone https://github.com/MahdiJazz/react-ecommerce.git
+
+2. Navigate to the project folder:
+   cd react-ecommerce
+
+3. Install dependencies:
+   npm install
+
+4. Start the development server:
+   npm start
+
+Enjoy the app! 😄
